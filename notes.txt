@@ -5,17 +5,29 @@
         Singleton 
         Prototype
         Builder 
-        Factory 
+        Factory
+        Abstract 
     
     Structural 
         Facade 
         Proxy 
+        Adapter 
+        Bridge 
+        Composite 
+        Decorator 
+        Flyweight
     
     Behavioral 
         Iterator 
         Observer 
         Mediator 
-        State 
+        State
+        Command 
+        Chain of Responsability 
+        Memento
+        Strategy 
+        Template Method
+        Visitor
 
 
 O que consiste um Pattern: 
@@ -27,3 +39,14 @@ O que consiste um Pattern:
         Mostram cada parte do padrão e como se relacionam 
     Exemplos de código 
         Compreensão da ideia por trás do padrão 
+
+
+Padrões e seus propósitos: 
+    Creational
+        Fornecem mecanismos de criação de objetos que aumentam a flexibilidade e a reutilização do código 
+    Structural
+        Explicam como montar objetos e classes em estruturas maiores, enquanto ainda mantém as estruturas flexíveis e eficientes 
+    Behavioral
+        Cuidam da comunicação eficiente e da assinalação de responsabilidades entre objetos 
+
+
