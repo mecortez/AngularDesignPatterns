@@ -1,0 +1,29 @@
+    ---- Angular Design Patterns ---
+
+- Softwares Design Patterns
+    Creational 
+        Singleton 
+        Prototype
+        Builder 
+        Factory 
+    
+    Structural 
+        Facade 
+        Proxy 
+    
+    Behavioral 
+        Iterator 
+        Observer 
+        Mediator 
+        State 
+
+
+O que consiste um Pattern: 
+    Propósito 
+        Descreve brevemente o problema e a solução
+    Motivação 
+        Explica a fundo o problema e a solução que o padrão torna possível 
+    Estruturas (de classes)
+        Mostram cada parte do padrão e como se relacionam 
+    Exemplos de código 
+        Compreensão da ideia por trás do padrão 
